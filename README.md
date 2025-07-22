@@ -20,7 +20,7 @@ The value of this approach is most clear in a noisy environment. We trained two 
 *   **System A (Fixed Gradient):** Fails to converge, getting stuck in a poor local minimum.
 *   **System B (Our Metadynamic Kernel):** Learns to filter the noise and robustly finds a superior solution in fewer steps.
 
-![Inference Comparison](https://raw.githubusercontent.com/user/torch-metadyn/main/assets/inference_comparison_noisy.png) <!-- Placeholder -->
+![Inference Comparison]([https://raw.githubusercontent.com/user/torch-metadyn/main/assets/inference_comparison_noisy.png](https://github.com/Killbook1/torch-metadyn/blob/main/demo_results/inference_comparison_demo.png))
 
 This demonstrates that our learned kernel is not just a complex alternative, but a fundamentally more powerful mechanism for inference.
 

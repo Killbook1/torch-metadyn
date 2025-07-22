@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+metadyn/__init__.py
+metadyn/kernel.py
+torch_metadyn.egg-info/PKG-INFO
+torch_metadyn.egg-info/SOURCES.txt
+torch_metadyn.egg-info/dependency_links.txt
+torch_metadyn.egg-info/requires.txt
+torch_metadyn.egg-info/top_level.txt

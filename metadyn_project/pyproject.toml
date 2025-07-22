@@ -1,0 +1,28 @@
+# pyproject.toml
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "torch-metadyn"
+version = "0.1.0"
+authors = [
+  { name="Archon", email="archon@protocol.dev" },
+]
+description = "A PyTorch implementation of Metadynamic Kernels for learned, robust iterative inference."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "torch>=1.9",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/user/torch-metadyn" # Placeholder
+"Bug Tracker" = "https://github.com/user/torch-metadyn/issues" # Placeholder

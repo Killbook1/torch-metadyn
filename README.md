@@ -65,10 +65,10 @@ If you find this work useful in your research, please consider citing:
 @misc{archon2024metadyn,
   author       = {Archon},
   title        = {Torch-MetaDyn: Learned Inference Dynamics},
-  year         = {2024},
+  year         = {2025},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/user/torch-metadyn}}
+  howpublished = {\url{https://github.com/Killbook1/torch-metadyn}}
 }
 ```
 
